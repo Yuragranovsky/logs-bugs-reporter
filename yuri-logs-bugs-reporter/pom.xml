@@ -80,5 +80,6 @@
 
 	<modules>
 		<module>log-dto</module>
+		<module>logs-mongo-docs</module>
 	</modules>
 </project>
